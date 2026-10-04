@@ -54,9 +54,29 @@ I'm a full-stack data engineer with 12+ years of experience designing and delive
 - Tuned Spark processing to reduce batch runtimes by 62% and improve query performance by 32%.
 - Replaced manual reporting workflows with Microsoft Fabric and Spark SQL pipelines.
 
-**Earlier roles · Cygnet One, Priya Softweb, Casepoint, and SSM Infotech** | 2013 – 2025
+**Senior Data Engineer · Cygnet One** | Sep 2022 – Feb 2025
 
-Delivered Azure Data Factory integrations, large-scale PySpark transformations, API ingestion frameworks, relational data migrations, and data processing for eDiscovery and energy analytics.
+- Refactored a monolithic Databricks notebook into modular production-ready architecture, improving maintainability, reusability, and deployment reliability by 28%.
+- Accelerated ingestion pipelines, reducing API failures by 55% and improving extraction performance and stability by 35%.
+- Built a multi-level, API-driven Azure Data Factory pipeline for 5-level hierarchical dependencies.
+- Created dynamically constructed request bodies using mapping JSON and endpoint-specific templates.
+- Implemented a two-stage ADF Copy Activity pattern, reducing data-mapping errors by 52%.
+
+**Data Engineer · Priya Softweb Solutions** | Jul 2021 – Sep 2022
+
+- Decomposed a 10 TB dataset into six analytical tables and implemented PySpark credit-score transformations, reducing processing time by 64%.
+- Streamlined 1K+ lines of T-SQL using table-variable joins on 5 TB audit tables.
+- Productionized batch ingestion into MongoDB with Python, improving throughput by 39% and reducing memory pressure and failures by 25%.
+
+**Data Engineer · Casepoint LLC** | Sep 2018 – Jun 2021
+
+- Processed containerized file content and metadata with PySpark and loaded curated outputs into Hive, improving data availability by 44% and reducing manual preparation by 68%.
+- Delivered reformatted data to the eDiscovery portal with 100% on-time availability.
+
+**Junior Data Engineer · SSM Infotech Solutions Pvt. Ltd.** | Nov 2013 – Sep 2018
+
+- Ingested high-frequency energy-meter data into a centralized platform, improving downstream data consistency and availability by 48%.
+- Orchestrated customer reporting with T-SQL and real-time meter visualization, increasing operational transparency by 36%.
 
 ### Selected Impact
 
@@ -75,8 +95,8 @@ Delivered Azure Data Factory integrations, large-scale PySpark transformations, 
 
 | Issuer | Certifications |
 | --- | --- |
-| Microsoft | Fabric Data Engineer Associate (DP-700); Fabric Analytics Engineer Associate (DP-600) |
-| Databricks | Certified Data Engineer Professional; Certified Data Engineer Associate |
-| Claude | Certified Associate: Foundations |
+| Microsoft | [Fabric Data Engineer Associate (DP-700)](https://learn.microsoft.com/api/credentials/share/en-us/DharmeshGajera-1980/AF6232B7A95BC785?sharingId=14A542957CC7B8F9); [Fabric Analytics Engineer Associate (DP-600)](https://learn.microsoft.com/api/credentials/share/en-us/DharmeshGajera-1980/C89AD3168C1F995A?sharingId=14A542957CC7B8F9) |
+| Databricks | [Certified Data Engineer Professional](https://credentials.databricks.com/14eafaee-a025-4ac5-9dd0-92956d95ab73#acc.f0dHMg6N); [Certified Data Engineer Associate](https://credentials.databricks.com/0964eb22-8a91-4b5e-ad4b-874b16ea36bf#acc.PMt0TxEz) |
+| Claude | [Certified Associate: Foundations](https://www.credly.com/badges/f3eea165-1fa9-47f3-b512-7cfbe69ff001/public_url) |
 
 Open to connecting about data engineering, cloud data platforms, and analytics. Reach me on [LinkedIn](https://www.linkedin.com/in/dharmesh-gajera/) or by [email](mailto:dharmeshg27@gmail.com).
